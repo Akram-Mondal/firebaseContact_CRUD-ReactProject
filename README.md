@@ -1,8 +1,3 @@
-# React + Vite
+# firebaseContact_CRUD
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![ProjectPic](https://github.com/Akram-Mondal/firebaseContact_CRUD-ReactProject/assets/110484350/ef90a49e-ef53-4606-a215-5a1b80f5ea22)
